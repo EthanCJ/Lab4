@@ -18,18 +18,12 @@
     <ClCompile Include="myFile1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="myFile2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myFile1a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="myFile1b.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SetInt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

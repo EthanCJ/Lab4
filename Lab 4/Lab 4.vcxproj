@@ -140,12 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="myFile1.cpp" />
-    <ClCompile Include="myFile2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myFile1a.h" />
     <ClInclude Include="myFile1b.h" />
-    <ClInclude Include="SetInt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
